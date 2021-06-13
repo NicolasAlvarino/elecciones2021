@@ -1,4 +1,4 @@
-cd "C:\Users\nicol\OneDrive\Escritorio\Elecciones 2021"
+cd "[REEMPLAZAR CON PATH DEL WORKING DIRECTORY]"
 use "r_elecciones_21.dta", clear
 
 describe
