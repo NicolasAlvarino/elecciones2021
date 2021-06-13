@@ -1,0 +1,3 @@
+Cálculos en STATA se basan en result_resumen_por_mesa.csv de https://github.com/rburhum/elecciones-peru-2021-ONPE
+El archivo se renombró y guardó en formato dta como r_elecciones_21.dta
+Resumen en excel es el resultado del dofile
